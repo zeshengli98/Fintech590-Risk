@@ -51,5 +51,5 @@ For weekly project:
 - near_psd(A)
 - Frobenius_norm(A)
 - Higham_near_psd(A)
-# [cov](risk_management/cov.py)
+### [cov](risk_management/cov.py)
 - weighted_cov(lamb, df): lamb is weight param, the dataframe format, demanding the time series is ascending
